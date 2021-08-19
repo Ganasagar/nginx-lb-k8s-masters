@@ -1,4 +1,4 @@
-# Kubernetes Master Load Balancer
+# Kubernetes Master Load Balancer using a Docker Container 
 
 This is a little wrap on the usual nginx container to setup a simple load balancer for kubernetes api servers.
 
